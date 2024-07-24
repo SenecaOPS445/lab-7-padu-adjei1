@@ -86,7 +86,7 @@ test_b2_run (__main__.lab7i.test_b2_run)
 [Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for correct output: ./lab7i.py ... ok
 
 ----------------------------------------------------------------------
-Ran 43 tests in 0.147s
+Ran 43 tests in 0.134s
 
 OK
 OPS445 Lab Report - System Information for running ./CheckLab7.py
@@ -97,5 +97,5 @@ OPS445 Lab Report - System Information for running ./CheckLab7.py
     Python version: 3122
     OS Platform: linux
     Working Directory: /home/padu-adjei1/ops445/lab7/lab-7-padu-adjei1
-    Start at: Wed Jul 24 14:34:23 2024
+    Start at: Wed Jul 24 14:44:08 2024
 =================================================================
